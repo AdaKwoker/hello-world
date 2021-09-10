@@ -1,2 +1,2 @@
 # hello-world
-prepingfor my 4651 course 
+preping for my 4651 course 
